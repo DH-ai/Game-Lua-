@@ -1,0 +1,4 @@
+button for firing 
+boss at 20000
+about scene
+bug- need to stop astroid genration during pause

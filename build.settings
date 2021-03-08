@@ -1,0 +1,16 @@
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+		supported = {"portrait","landscapeLeft", "landscapeRight"},
+	},
+	  splashScreen =
+    {
+        android = {
+            enable = true,
+            image = "SplashScreen.png"
+        }
+    },
+	 
+}
